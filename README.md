@@ -44,3 +44,7 @@ For each order request:
 
 # This version
 1. For the sake of time, the current version will only fill seats from row R to 1, and from column 1 to C in each row.
+
+# Optimization in the future
+1. use satisfaction points of each seat to optimize the seat assignments
+2. skip single available seat when a group comes
